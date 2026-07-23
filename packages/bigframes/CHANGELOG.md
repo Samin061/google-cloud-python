@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/bigframes/#history
 
+## [2.46.1](https://github.com/googleapis/google-cloud-python/compare/bigframes-v2.46.0...bigframes-v2.46.1) (2026-07-23)
+
+
+### Bug Fixes
+
+* bump brace-expansion from 5.0.6 to 5.0.7 in /packages/bigframes/bigframes/display/table_widget_angular ([#17794](https://github.com/googleapis/google-cloud-python/issues/17794)) ([2df1bb5](https://github.com/googleapis/google-cloud-python/commit/2df1bb5cb53906bfc41de92c10fdb5a8920ce36f))
+* bump tar from 7.5.16 to 7.5.20 in /packages/bigframes/bigframes/display/table_widget_angular ([#17793](https://github.com/googleapis/google-cloud-python/issues/17793)) ([3502d41](https://github.com/googleapis/google-cloud-python/commit/3502d4183d9864e4310b3daf063ec90be9969e25))
+
 ## [2.46.0](https://github.com/googleapis/google-cloud-python/compare/bigframes-v2.45.0...bigframes-v2.46.0) (2026-07-16)
 
 
